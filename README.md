@@ -32,4 +32,4 @@
 2. 使用 Qt Creator 或者命令行编译器编译源代码。
 3. 运行生成的可执行文件即可启动绘图小工具。
 
-![main](.\pic\main.png)
+![main](./pic/main.png)
