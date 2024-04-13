@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>qrc/20091201_0c5e3cb96bf053f6f8f43xlWxvBTLEnr.png</file>
+        <file>qrc/textcolor.png</file>
+        <file>qrc/write2file.png</file>
+    </qresource>
+</RCC>
